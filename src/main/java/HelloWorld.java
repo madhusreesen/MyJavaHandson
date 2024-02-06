@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.study;
+package main.java;
 
 /**
  * 
